@@ -1,4 +1,3 @@
-/* Created by frank on 2/25/14. */
 (function ($) {
     $.fn.affix = function (_options) {
         if (this.data('affixInited')) {
